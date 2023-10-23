@@ -25,7 +25,7 @@ body {
 }
 
 header img {
-  width: 4rem;
+  width: 5rem;
   height: 4rem;
   margin: 2rem 0;
   object-fit: contain;
@@ -43,9 +43,9 @@ main {
 button {
   font: inherit;
   cursor: pointer;
-  background-color: #f8bd47;
+  background-color: #a7740e;
   color: #292d2d;
   padding: 0.25rem 1rem;
   border-radius: 4px;
-  border: 1px solid #f8bd47;
+  border: 1px solid #dedbd6;
 }
